@@ -54,12 +54,21 @@ Snooty Fashions is an exclusive custom fashion designer business. Create the ER 
 The Snooty Fashions Operations Database will keep track of the following: 
 
 • For each designer: a unique designer identifier and the name (composed of first and last name); 
+
 • For each customer: a unique customer identifier as well as his or her name and multiple phone numbers; 
+
 • For each tailoring technician: a unique identifier as well as his or her name (composed of first and last name); 
+
 • For each outfit: a unique outfit identifier as well as the outfit’s planned date of completion and its price; 
+
 • For each fashion show: a unique show identifier as well as the date of the show and location; 
+
 • Each designer designs many outfits. Each outfit has only one designer. 
+
 • Each outfit is sold (in advance) to exactly one customer. Customers can buy one or more outfits (Snooty Fashions will not track customers who have not made any purchases yet). 
+
 • Each tailoring technician must work on at least one outfit but can work on many. Each outfit has at least one tailoring technician working on it, but it can have many. 
+
 • Snooty Fashions will keep track of the date when a tailoring technician started working on a particular outfit and when it was completed. The business also wants to know how long it took to work on a particular outfit. 
+
 • Each designer can participate in a number of fashion shows but does not have to participate in any. Each fashion show can feature one or two Snooty Fashions designers. (Snooty Fashions will not keep track of fashion shows that do not feature Snooty Fashions designers.)
