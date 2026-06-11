@@ -1,4 +1,5 @@
 ASG3:
+
 Using ERDPlus, I’m going to create ER Diagrams, show the entities, and define the relationships between them. 
 
 Diagram #1:
@@ -49,7 +50,10 @@ Every component is provided by one or more suppliers for one or more products.
 
 
 
+
+
 ASG4:
+
 Snooty Fashions is an exclusive custom fashion designer business. Create the ER diagram for the Snooty Fashions Operations Database based on the following requirements. 
 The Snooty Fashions Operations Database will keep track of the following: 
 
